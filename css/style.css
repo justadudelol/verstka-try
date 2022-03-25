@@ -37,6 +37,7 @@ body {
   /* or 200% */
   letter-spacing: 2.5px;
   text-transform: uppercase;
+  padding: 0 0 0 16px;
   color: #f5f5f5;
   margin-bottom: 33px;
 }
@@ -47,7 +48,7 @@ body {
   height: 16px;
   background: url(../img/icon/0.svg) 0 0 / contain no-repeat;
   position: absolute;
-  left: -18px;
+  left: -2px;
   top: 4px;
 }
 
